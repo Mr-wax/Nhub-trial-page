@@ -1,0 +1,35 @@
+body{display: flex;
+    align-content: center;
+justify-content: center;
+ background-color: rgb(226, 189, 189);}
+.main{
+    box-shadow: 10px 10px 10px 10px;
+ border-radius:1rem;
+ justify-content: center;
+align-content: center;
+font-family: 'outfit';
+width: 40rem;
+padding: 1rem;
+background-color: white;}
+
+.omellete{
+    width: 40rem;
+    height: 20rem;
+    border-radius: 0.5rem;
+}
+
+.preptime{ color: maroon;}
+
+.Ingredients{ color: maroon;}
+
+.Instructions{ color: maroon;}
+
+.Nutrition{ color: maroon;}
+
+.div1{
+    background-color: rgb(248, 231, 231);
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+span{color:maroon;}
