@@ -1,0 +1,67 @@
+body{
+    background-image: url(./pattern-background-desktop.svg);
+}
+
+.smalldiv{ background-color: rgb(231, 253, 253);
+    border-radius: 10px;
+}
+
+.main{ display: grid;
+ font-family:sans-serif;
+ margin-left: 30rem;
+background-color: white;
+width: 25rem;
+border-radius: 14px;}
+
+.change{color: blue;
+margin-right: ; }
+
+h1{ margin-left: 5rem;}
+
+p{margin-left: 3rem;}
+
+.hero{ width: 25rem;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;
+}
+
+.icon{margin-top: 1rem;
+     margin-left: 3rem;
+height: 3.5rem;
+width: 3.5rem;}
+
+.Annual{position: absolute;
+top:24rem;
+left: 38rem;}
+
+.span1{ margin-left: 7rem;
+margin-bottom: 4rem;
+color: gray;}
+
+.Proceed{ margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    width: 18rem;
+    height: 3rem;
+     background-color: rgb(70, 70, 255);
+    color: white;
+border-radius: 8px;
+border: none;}
+
+     .Proceed:hover{transform: scale(1.1);}
+
+.cancel{
+    margin-top: rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    width: 18rem;
+    height: 3rem;
+    background-color: rgb(218, 252, 252);
+    border-radius: 8px;
+    border: none;
+}
+
+.cancel:hover{transform: scale(1.1); }
+
+
+
